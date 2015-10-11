@@ -12,7 +12,7 @@
 var portNum = process.argv[2]
 
 var http = require('http')
-// TODO: find if there is a way to make the same thing withou using third-party
+// TODO: find if there is a way to make the same thing without using third-party
 // libraries
 var map = require('through2-map')
 
